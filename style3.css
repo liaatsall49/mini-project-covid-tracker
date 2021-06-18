@@ -1,0 +1,13 @@
+body{
+    background-image: url("file:///D:/kuliah/semester%204/apl/tugas/tugas%20kelompok/web/covid.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+div{
+    color: white;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+title{
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,31 @@
+body{
+    background-image: url("file:///D:/kuliah/semester%204/apl/tugas/tugas%20kelompok/web/covid.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    padding: 0px;
+    margin-bottom: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.login-box{
+    width: 320px;
+    height: 420px;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 70px;
+    transform: translate(-50%, -50%);
+}
+title{
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Open Sans', sans-serif;
+}
